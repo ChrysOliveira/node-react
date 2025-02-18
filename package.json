@@ -1,0 +1,12 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./aula02/index.js"
+  },
+  "author": "Chrys Chrys",
+  "license": "ISC",
+  "type": "module"
+}
